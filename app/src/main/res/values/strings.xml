@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">zhidaDemo</string>
+    <string name="login_loading">登陆中</string>
+    <string name="login_success">登陆成功</string>
+    <string name="login_failed">登陆失败</string>
+
+</resources>
